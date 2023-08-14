@@ -1,0 +1,36 @@
+.body{
+    background-image: url(https://www.google.com/imgres?imgurl=https%3A%2F%2Fpng.pngtree.com%2Fbackground%2F20230412%2Foriginal%2Fpngtree-camera-in-the-desert-picture-image_2396926.jpg&tbnid=NWHTPt0m2HTiDM&vet=12ahUKEwihs4f9jseAAxUTfnAKHdfsCtAQMygAegUIARDMAQ..i&imgrefurl=https%3A%2F%2Fvi.pngtree.com%2Ffreebackground%2Fcamera-in-the-desert_2396926.html&docid=NCNEUtmnQHLopM&w=1200&h=692&q=background%20may%20anh&ved=2ahUKEwihs4f9jseAAxUTfnAKHdfsCtAQMygAegUIARDMAQ);
+    background-color: rgb(12, 213, 213);
+}
+.div-sett{
+  
+  align-items: center;
+  height: 1000000px;
+  
+  width: 90%;
+  background-color: aqua;
+
+}
+.form-sett{
+   padding: 400px;
+   align-items: center;
+   padding-top: 140px;
+
+}
+.btn{
+    height: 35px;
+    border-radius: 20px;
+    width: 150px;
+    color: rgb(87, 87, 244);
+    
+}
+.inpt{
+   width: 300px;
+   height: 40px;
+   border-radius: 10px;
+   margin-bottom: 10px;
+}
+.nv-btn{
+    display: flex;
+    
+}
