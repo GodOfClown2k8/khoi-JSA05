@@ -19,11 +19,11 @@
     
 // }
 // let MyNumberArray = [1,2,3,4];
-// let MyArray = ['grape','banana','apple','peach','cocomelon'];
-// for (let i = 0; i < 5; i++) {
-//    console.log(MyArray[i]);
+let MyArray = ['grape','banana','apple','peach','cocomelon'];
+for (let i = 0; i < 5; i++) {
+   console.log(MyArray[i]);
     
-// }
+}
 // let i = 0
 
 // while (i<5) {
