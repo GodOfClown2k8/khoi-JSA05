@@ -1,0 +1,21 @@
+.search-sett{
+    display: inline-block;
+    
+    
+}
+.nvm-search{
+   align-items: center;
+   padding-left: 140px;
+}
+#button-search:hover{
+   color: white;
+   background-color: rgb(61, 61, 196);
+   width: 20px;
+   
+
+}
+#search-inpt{
+    height: 40px;
+    width: 200px;
+    box-shadow: 5px;
+}
