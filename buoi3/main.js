@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 // For in cho mảng
 // let arr = ["toán","ngữ văn","Tiếng anh"]
@@ -26,12 +26,12 @@
 
 
 // for of cho mảng
-let arr = ["toán","ngữ văn","Tiếng anh"]
-for (let value of arr) {
-    console.log(value);
-}
+// let arr = ["toán","ngữ văn","Tiếng anh"]
+// for (let value of arr) {
+//     console.log(value);
+// }
 // for of cho obj ko đc
-=======
+
 
 // For in cho mảng
 // let arr = ["toán","ngữ văn","Tiếng anh"]
@@ -59,9 +59,8 @@ for (let value of arr) {
 
 
 // for of cho mảng
-let arr = ["toán","ngữ văn","Tiếng anh"]
-for (let value of arr) {
-    console.log(value);
-}
+// let arr = ["toán","ngữ văn","Tiếng anh"]
+// for (let value of arr) {
+//     console.log(value);
+// }
 // for of cho obj ko đc
->>>>>>> 0ddd19fbc588a88e133631366fe7875741bfd637
