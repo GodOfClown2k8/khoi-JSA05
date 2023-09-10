@@ -17,12 +17,4 @@ var button = document
         alert("Wrong Pass");
     }
   });
-document.addEventListener('DOMContentLoaded', function () {
-    var Username = localStorage.getItem('myname');
-    if(Username){
-        var RandomElement = document.createElement('p');
-        RandomElement.textContent = 'hello' + myname + '!';
-        document.body.appendChild(RandomElement);
-    }
-    
-});
+
